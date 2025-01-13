@@ -19,6 +19,13 @@ Este proyecto implementa una sencilla biblioteca en Python para gestionar un cat
 4. **Búsqueda de libros:** Se puede buscar un libro por su título.
 5. **Préstamo y devolución:** Se pueden prestar y devolver libros, actualizando su estado.
 
+## Aprendizajes clave
+1. **Programación orientada a objetos:** Aplicación práctica de conceptos como clases, objetos, atributos y métodos.
+2. **Encapsulación**: Agrupamiento de datos (atributos) y comportamiento (métodos) en objetos.
+3. **Listas en Python:** Utilización de listas para almacenar colecciones de objetos.
+4. **Condicionales:** Uso de if y else para tomar decisiones basadas en el estado de los objetos.
+5. **Funciones:** Creación de funciones para realizar tareas específicas.
+
 ## Ejemplo de uso
 biblioteca.mostrar_libros()  # Muestra todos los libros de la biblioteca
 
