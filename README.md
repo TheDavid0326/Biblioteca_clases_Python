@@ -20,7 +20,10 @@ Este proyecto implementa una sencilla biblioteca en Python para gestionar un cat
 5. **Préstamo y devolución:** Se pueden prestar y devolver libros, actualizando su estado.
 
 ## Ejemplo de uso
-biblioteca.mostrar_libros()  # Muestra todos los libros de la biblioteca /n
+biblioteca.mostrar_libros()  # Muestra todos los libros de la biblioteca
+
 biblioteca.buscar_libro("Las dos torres")  # Busca un libro específico
+
 libro_1.prestar()  # Presta un libro
+
 libro_2.devolver()  # Devuelve un libro
